@@ -1,2 +1,0 @@
-# Graph Introduction and Terminologies
-
