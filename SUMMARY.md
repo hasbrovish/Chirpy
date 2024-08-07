@@ -1,8 +1,5 @@
 # Table of contents
 
-* [Data-Structures](README.md)
-* [DBMS](dbms/README.md)
-  * [Into](dbms/into.md)
-* [Notes](notes/README.md)
-  * [Graph Introduction and Terminologies](notes/graph-introduction-and-terminologies.md)
-  * [Representation of Graphs](notes/representation-of-graphs.md)
+* [Page](README.md)
+* [Page 1](page-1/README.md)
+  * [Page 2](page-1/page-2.md)
